@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kaicex/tentek-poster-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kaicex/tentek-poster-releases?label=версия&color=ff1f9d" alt="Последняя версия"></a>
+  <a href="https://github.com/kaicex/tentek-poster-releases/releases/latest"><img src="https://img.shields.io/github/v/release/kaicex/tentek-poster-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=ff1f9d" alt="Последняя версия"></a>
   <a href="https://www.npmjs.com/package/tentek-poster"><img src="https://img.shields.io/npm/v/tentek-poster?label=npm&color=e00e88" alt="npm"></a>
   <img src="https://img.shields.io/badge/MCP-Claude%20Desktop%20%C2%B7%20Claude%20Code-6b0842" alt="Claude Desktop и Claude Code">
 </p>
